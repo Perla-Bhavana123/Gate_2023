@@ -1,0 +1,33 @@
+#id1{
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    margin-top: 20px;
+    size: 50px;
+    display: flex;
+}
+.i{
+    color: rgb(27, 27, 123);
+    text-decoration: none;
+    float: right;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+#p{
+    height: 500px;
+    border-right: 1px solid gray;
+    width: 20%;
+    margin-left: 5%;
+   
+}
+.o{
+    font-family: sans-serif;
+    font-size: small;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 15%;
+   
+}
